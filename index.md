@@ -3,7 +3,7 @@
 </p>
 
 # Hi! My Name is Yong Liang
-I am currently an MS student @ UC San Diego. I am not a CS major but I am really interested in software development and networked system. I finished my BEng degree in China and took a gap year serving as an SWE Intern at Bosch. I feel excited about enrolling in CSE110 this quarter and really look forward to interacting with other students in the class.
+I am currently an MS student @ UC San Diego. I am not a CS major but I am really interested in software development and networked system. I finished my BEng degree in China and took a gap year serving as an SWE Intern at [Bosch](https://www.bosch.com.cn/en/our-company/bosch-in-china/bosch-automotive-products-changsha/). I feel excited about enrolling in CSE110 this quarter and really look forward to interacting with other students in the class.
 
 I also published some of the projects I have done on Github. If you are interested, feel free to check them out. *Please see the [Projects Section](#projects)*
 
